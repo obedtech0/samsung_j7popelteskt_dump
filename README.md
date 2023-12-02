@@ -1,0 +1,19 @@
+## j7popelteskt-user 8.1.0 M1AJQ J727SKSU3BSC4 release-keys
+- Manufacturer: samsung
+- Platform: exynos5
+- Codename: j7popelteskt
+- Brand: samsung
+- Flavor: j7popelteskt-user
+- Release Version: 8.1.0
+- Kernel Version: 3.18.14
+- Id: M1AJQ
+- Incremental: J727SKSU3BSC4
+- Tags: release-keys
+- CPU Abilist: armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: ko-KR
+- Screen Density: 320
+- Fingerprint: samsung/j7popelteskt/j7popelteskt:8.1.0/M1AJQ/J727SKSU3BSC4:user/release-keys
+- OTA version: 
+- Branch: j7popelteskt-user-8.1.0-M1AJQ-J727SKSU3BSC4-release-keys
+- Repo: samsung_j7popelteskt_dump
